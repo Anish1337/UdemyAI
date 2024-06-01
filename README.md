@@ -1,2 +1,5 @@
 # UdemyAI
-Collection of Udemy projects that relate to machine learning, artificial intelligence, and deep learning.
+## Folders
+### Artificial Intelligence
+### Data Science
+### Machine Learning
