@@ -10,4 +10,10 @@ https://github.com/Anish1337/UdemyAI/assets/15726203/e778a995-cb16-44df-a6bb-507
 #### KungFumaster (A3C)
 * Used the A3C algorithm to teach an agent to play Atari's KungFuMaster.
 ### Data Science
+#### TODO
+#### TODO
+#### TODO
 ### Machine Learning
+#### TODO
+#### TODO
+#### TODO
