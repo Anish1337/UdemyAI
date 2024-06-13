@@ -1,5 +1,5 @@
 # UdemyAI
-## Folders
+
 ### Artificial Intelligence
 * [Udemy AI course](https://www.udemy.com/course/artificial-intelligence-az/?couponCode=OF53124)
 #### Lunar Lander (Deep Q-Learning)
